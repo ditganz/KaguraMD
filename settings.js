@@ -10,25 +10,25 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
-global.footer = 'Lexxy Official'
+global.owner = ['6281387292249','6285890397900']
+global.premium = ['6281387292249']
+global.ownernomer = '6281387292249'
+global.ownername = 'DittBotz Official'
+global.botname = 'Kagura-MD'
+global.footer = 'DittBotz Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
+global.packname = '© Kagura.ditt7'
 global.author = '2022'
 global.sp = '⭔'
 
 //---------( INFO )---------//
-global.youtube = 'https://youtube.com/c/LEX4YOUU'
-global.ig = 'https://instagram.com/Lexxy24'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://github.com/Lexxy24'
-global.email = 'pebrikito0@gmail.com'
+global.youtube = 'https://youtube.com/c/DittBotzOfficial'
+global.ig = 'https://instagram.com/ditt.storee'
+global.mygc = 'https://chat.whatsapp.com/KlFmYB4Fr8j78S7edWoGBe'
+global.myweb = 'https://github.com/ditganz'
+global.email = 'kagura.dit7@gmail.com'
 global.region = 'indonesia'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
