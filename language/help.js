@@ -4,7 +4,7 @@ Saya ${botname}, Bot Ini Adalah Beta Multi-Device WhatsApp.
 Jika Ada Fitur Error Atau Bug Segera Lapor Ke Owner Bot
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *DittBotz Official*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -406,7 +406,7 @@ exports.menusimpel = (botname, pushname, salam, ownername, time, tanggal) => {
 	return`Selamat *${salam}* ${pushname} 👋
 
   *INFO BOT*
-  👑 Creator : *Lexxy Official*
+  👑 Creator : *DittBotz Official*
   👤 Owner : *${ownername}*
   🤖 Bot Name : *${botname}*
   📑 Tanggal : *${tanggal}*
@@ -471,14 +471,14 @@ Thanks!
 —————「 *SEWA | RUN BOT* 」—————
 
   *_SEWA BOT_* 
-  *❏* Sewa Bot 15k (1 minggu)
-  *❏* Sewa Bot 20k (1 bulan)
-  *❏* Sewa Bot 25k (Permanen)
+  *❏* Sewa Bot 3k (1 minggu)
+  *❏* Sewa Bot 8k (1 bulan)
+  *❏* Sewa Bot 15k (Permanen)
 
   *JADI BOT* 
   *❏* Jadi Bot 15k Tidak Owner (1 minggu)
   *❏* Jadi Bot + Owner 20k (1 bulan)
-  *❏* Jadi Bot + Owner 25k (Permanen)
+  *❏* Jadi Bot + Owner 30k (Permanen)
 
   *JASA RUN BOT*
   *❏* Run Bot 15k (1 minggu)
